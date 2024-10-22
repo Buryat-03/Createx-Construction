@@ -55,7 +55,8 @@ button { display: block;
         color: white; cursor: pointer; } 
 button:hover { 
     background-color: #3e8e41; } 
-.invalid { border: 1px solid red; }
+.invalid { border: 1px solid red; 
+}
 .header-top {
     background: url('images/header-background.svg');
     background-position: center;
